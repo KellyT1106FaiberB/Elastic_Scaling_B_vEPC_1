@@ -7,13 +7,13 @@ The scaling is a pivotal task to address workload variation that affects the per
 
 Authors
 
-1. Kelly Tatiana Tobar Ortega, Departamento de Telematica, Facultad de ingenieria electronica y telecomunucaciones Universidad del Cauca
+1. Kelly Tatiana Tobar Ortega, Departamento de Telematica, Facultad de ingenieria electronica y telecomunicaciones, Universidad del Cauca
 
-2. Faiber Botina Anacona, Departamento de Telematica, Facultad de ingenieria electronica y telecomunucaciones Universidad del Cauca
+2. Faiber Botina Anacona, Departamento de Telematica, Facultad de ingenieria electronica y telecomunicaciones, Universidad del Cauca
 
-3. Carlos Hernan Tobar Arteaga, Departamento de Telematica, Facultad de ingenieria electronica y telecomunucaciones Universidad del Cauca
+3. Carlos Hernan Tobar Arteaga, Departamento de Telematica, Facultad de ingenieria electronica y telecomunicaciones, Universidad del Cauca
 
-4. Oscar Mauricio Caicedo Rendon, Departamento de Telematica, Facultad de ingenieria electronica y telecomunucaciones Universidad del Cauca
+4. Oscar Mauricio Caicedo Rendon, Departamento de Telematica, Facultad de ingenieria electronica y telecomunicaciones Universidad del Cauca
 
 Contact
 
